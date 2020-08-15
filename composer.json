@@ -15,5 +15,12 @@
         "psr-4": {
             "Kelvin\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Kelvin\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
