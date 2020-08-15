@@ -1,0 +1,19 @@
+{
+    "name": "kelvin/contact",
+    "description": "This package will send an email to the recipient",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kelvin Maina",
+            "email": "thiongokelvin5@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Kelvin\\Contact\\": "src/"
+        }
+    }
+}
